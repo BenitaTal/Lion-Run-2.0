@@ -46,6 +46,8 @@ I had a problem that i couldnt resolve, so i comment 8 rows for the app to run.
 
 The app can not take location from my phone.
 
+I think the problem is the connection between java's class to my app. 
+
 
 1.
 
